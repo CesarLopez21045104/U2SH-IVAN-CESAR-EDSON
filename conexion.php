@@ -1,4 +1,8 @@
+
+
 <?php
+//Creacion de conexion a una base de datos mysql
+
 $host = 'localhost'; // Cambia por tu host
 $usuario = 'root'; // Cambia por tu usuario de la base de datos
 $contraseña = ''; // Cambia por tu contraseña
